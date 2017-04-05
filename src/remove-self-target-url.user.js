@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                   html-fixed: remove-self-target-url
 // @namespace              https://github.com/cologler/html-fixed
-// @version                1.0
+// @version                1.1
 // @description            remove href which target to self
 // @description:zh-CN      移除指向自身的超链接
 // @author                 cologler
