@@ -17,7 +17,7 @@
         let as = document.querySelectorAll('a');
         for (var i = 0; i < as.length; i++) {
             let a = as[i];
-            if (a.href == cur) {
+            if (a.hasAttribute('href') && a.href == cur) {
                 a.removeAttribute('href');
             }
         }
